@@ -1,0 +1,6 @@
+@use '../utils/extends';
+
+.title {
+    @extend %large-text;
+    padding: 0;
+  }
